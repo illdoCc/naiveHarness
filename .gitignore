@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+runs/
+
+# 試題腳本留在本機，正式教材不需要上傳這些實驗。
+/probe_*.py
+
+# 課前檢查工具留在本機。
+/verify_workshop.py
